@@ -1,0 +1,1 @@
+import{L as o}from"./Logo-PUBKW1pz.js";document.body.style.backgroundColor="#b0b0ab";document.body.style.fontFamily="Arial, Helvetica, sans-serif";document.body.style.boxSizing="box-border";let e=new o(300);document.body.append(e.img);const a=new URLSearchParams(window.location.search);a.get("id");
